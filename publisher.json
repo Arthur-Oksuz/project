@@ -1,0 +1,23 @@
+[
+    {
+      "id": "PUB-101",
+      "name": "Fantasy House Publishers",
+      "logoUrl": "https://example.com/images/publishers/fantasy-house-logo.jpg",
+      "foundedYear": 1985,
+      "country": "United Kingdom"
+    },
+    {
+      "id": "PUB-102",
+      "name": "Mystery Ink",
+      "logoUrl": "https://example.com/images/publishers/mystery-ink-logo.jpg",
+      "foundedYear": 1998,
+      "country": "United States"
+    },
+    {
+      "id": "PUB-103",
+      "name": "Sci-Fi Sphere",
+      "logoUrl": "https://example.com/images/publishers/sci-fi-sphere-logo.jpg",
+      "foundedYear": 2005,
+      "country": "Japan"
+    }
+  ]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "BOOK-001",
+    "title": "The Lost Kingdom",
+    "description": "An epic tale of adventure and discovery as a young hero sets out to find a lost kingdom hidden beyond the great mountains.",
+    "pageCount": 345,
+    "isAvailable": true,
+    "publishDate": "2021-09-15",
+    "imageUrl": "/images/The Lost Kingdom.jpg",
+    "genre": "Fantasy",
+    "tags": ["Adventure", "Magic", "Epic"],
+    "publisher": {
+      "id": "PUB-101",
+      "name": "Fantasy House Publishers",
+      "logoUrl": "https://example.com/images/publishers/fantasy-house-logo.jpg",
+      "foundedYear": 1985,
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": "BOOK-002",
+    "title": "Whispers of the Past",
+    "description": "A gripping mystery novel that follows a detective as she unravels the secrets of an old mansion haunted by echoes of the past.",
+    "pageCount": 280,
+    "isAvailable": false,
+    "publishDate": "2019-05-22",
+    "imageUrl": "/images/Whispers of the Past.jpg",
+    "genre": "Mystery",
+    "tags": ["Thriller", "Haunted", "Detective"],
+    "publisher": {
+      "id": "PUB-102",
+      "name": "Mystery Ink",
+      "logoUrl": "https://example.com/images/publishers/mystery-ink-logo.jpg",
+      "foundedYear": 1998,
+      "country": "United States"
+    }
+  },
+  {
+    "id": "BOOK-003",
+    "title": "Digital Dreams",
+    "description": "A science fiction novel exploring the impact of artificial intelligence on human society and the boundaries of consciousness.",
+    "pageCount": 310,
+    "isAvailable": true,
+    "publishDate": "2023-01-10",
+    "imageUrl": "/images/Digital Dreams.jpg",
+    "genre": "Science Fiction",
+    "tags": ["AI", "Future", "Technology"],
+    "publisher": {
+      "id": "PUB-103",
+      "name": "Sci-Fi Sphere",
+      "logoUrl": "https://example.com/images/publishers/sci-fi-sphere-logo.jpg",
+      "foundedYear": 2005,
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "BOOK-004",
+    "title": "Echoes of Eternity",
+    "description": "A historical romance novel set in the 18th century, exploring forbidden love amidst social upheaval.",
+    "pageCount": 275,
+    "isAvailable": true,
+    "publishDate": "2020-03-18",
+    "imageUrl": "/images/Echoes of Eternity.jpg",
+    "genre": "Romance",
+    "tags": ["Historical", "Love", "Drama"],
+    "publisher": {
+      "id": "PUB-104",
+      "name": "LoveStory Editions",
+      "logoUrl": "https://example.com/images/publishers/lovestory-editions-logo.jpg",
+      "foundedYear": 1990,
+      "country": "France"
+    }
+  },
+  {
+    "id": "BOOK-005",
+    "title": "Quantum Paradox",
+    "description": "A thrilling sci-fi adventure that delves into the mysteries of time travel and quantum realities.",
+    "pageCount": 390,
+    "isAvailable": false,
+    "publishDate": "2022-08-29",
+    "imageUrl": "/images/Quantum Paradox.jpg",
+    "genre": "Science Fiction",
+    "tags": ["Time Travel", "Quantum Physics", "Adventure"],
+    "publisher": {
+      "id": "PUB-103",
+      "name": "Sci-Fi Sphere",
+      "logoUrl": "https://example.com/images/publishers/sci-fi-sphere-logo.jpg",
+      "foundedYear": 2005,
+      "country": "Japan"
+    }
+  },
+  {
+    "id": "BOOK-006",
+    "title": "Shadows of Deception",
+    "description": "A psychological thriller that unravels the dark secrets of a small coastal town.",
+    "pageCount": 320,
+    "isAvailable": true,
+    "publishDate": "2018-11-02",
+    "imageUrl": "/images/Shadows of Deception.jpg",
+    "genre": "Thriller",
+    "tags": ["Psychological", "Mystery", "Suspense"],
+    "publisher": {
+      "id": "PUB-102",
+      "name": "Mystery Ink",
+      "logoUrl": "https://example.com/images/publishers/mystery-ink-logo.jpg",
+      "foundedYear": 1998,
+      "country": "United States"
+    }
+  },
+  {
+    "id": "BOOK-007",
+    "title": "Journey to the Stars",
+    "description": "An inspiring biography of a pioneering astronaut who broke barriers and reached for the stars.",
+    "pageCount": 250,
+    "isAvailable": true,
+    "publishDate": "2021-05-05",
+    "imageUrl": "/images/Journey to the Stars.jpg",
+    "genre": "Biography",
+    "tags": ["Inspiration", "Space", "Achievement"],
+    "publisher": {
+      "id": "PUB-105",
+      "name": "Inspire Books",
+      "logoUrl": "https://example.com/images/publishers/inspire-books-logo.jpg",
+      "foundedYear": 2001,
+      "country": "Canada"
+    }
+  },
+  {
+    "id": "BOOK-008",
+    "title": "The Alchemist's Secret",
+    "description": "An ancient manuscript holds the secret to immortality, and a modern-day historian must solve its riddles.",
+    "pageCount": 300,
+    "isAvailable": false,
+    "publishDate": "2017-07-14",
+    "imageUrl": "/images/The Alchemist's Secret.jpg",
+    "genre": "Adventure",
+    "tags": ["Mystery", "History", "Puzzle"],
+    "publisher": {
+      "id": "PUB-101",
+      "name": "Fantasy House Publishers",
+      "logoUrl": "https://example.com/images/publishers/fantasy-house-logo.jpg",
+      "foundedYear": 1985,
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": "BOOK-009",
+    "title": "Whispering Winds",
+    "description": "A heartwarming tale of friendship and courage set in a picturesque coastal village.",
+    "pageCount": 265,
+    "isAvailable": true,
+    "publishDate": "2020-02-27",
+    "imageUrl": "/images/Whispering Winds.jpg",
+    "genre": "Drama",
+    "tags": ["Friendship", "Courage", "Village Life"],
+    "publisher": {
+      "id": "PUB-104",
+      "name": "LoveStory Editions",
+      "logoUrl": "https://example.com/images/publishers/lovestory-editions-logo.jpg",
+      "foundedYear": 1990,
+      "country": "France"
+    }
+  },
+  {
+    "id": "BOOK-010",
+    "title": "Beyond the Horizon",
+    "description": "A motivational self-help book that guides readers on a journey of self-discovery and fulfillment.",
+    "pageCount": 230,
+    "isAvailable": true,
+    "publishDate": "2022-04-12",
+    "imageUrl": "/images/Beyond the Horizon.jpg",
+    "genre": "Self-Help",
+    "tags": ["Motivation", "Self-Discovery", "Fulfillment"],
+    "publisher": {
+      "id": "PUB-105",
+      "name": "Inspire Books",
+      "logoUrl": "https://example.com/images/publishers/inspire-books-logo.jpg",
+      "foundedYear": 2001,
+      "country": "Canada"
+    }
+  }
+]
