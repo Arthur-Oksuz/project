@@ -12,7 +12,7 @@
     "publisher": {
       "id": "PUB-101",
       "name": "Fantasy House Publishers",
-      "logoUrl": "https://example.com/images/publishers/fantasy-house-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/The%20Lost%20Kingdom.jpg",
       "foundedYear": 1985,
       "country": "United Kingdom"
     }
@@ -30,7 +30,7 @@
     "publisher": {
       "id": "PUB-102",
       "name": "Mystery Ink",
-      "logoUrl": "https://example.com/images/publishers/mystery-ink-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Whispers%20of%20the%20Past.jpg",
       "foundedYear": 1998,
       "country": "United States"
     }
@@ -48,7 +48,7 @@
     "publisher": {
       "id": "PUB-103",
       "name": "Sci-Fi Sphere",
-      "logoUrl": "https://example.com/images/publishers/sci-fi-sphere-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Digital%20Dreams.jpg",
       "foundedYear": 2005,
       "country": "Japan"
     }
@@ -66,7 +66,7 @@
     "publisher": {
       "id": "PUB-104",
       "name": "LoveStory Editions",
-      "logoUrl": "https://example.com/images/publishers/lovestory-editions-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Echoes%20of%20Eternity.jpg",
       "foundedYear": 1990,
       "country": "France"
     }
@@ -84,7 +84,7 @@
     "publisher": {
       "id": "PUB-103",
       "name": "Sci-Fi Sphere",
-      "logoUrl": "https://example.com/images/publishers/sci-fi-sphere-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Quantum%20Paradox.jpg",
       "foundedYear": 2005,
       "country": "Japan"
     }
@@ -102,7 +102,7 @@
     "publisher": {
       "id": "PUB-102",
       "name": "Mystery Ink",
-      "logoUrl": "https://example.com/images/publishers/mystery-ink-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Shadows%20of%20Deception.jpg",
       "foundedYear": 1998,
       "country": "United States"
     }
@@ -120,7 +120,7 @@
     "publisher": {
       "id": "PUB-105",
       "name": "Inspire Books",
-      "logoUrl": "https://example.com/images/publishers/inspire-books-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Journey%20to%20the%20Stars.jpg",
       "foundedYear": 2001,
       "country": "Canada"
     }
@@ -138,7 +138,7 @@
     "publisher": {
       "id": "PUB-101",
       "name": "Fantasy House Publishers",
-      "logoUrl": "https://example.com/images/publishers/fantasy-house-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/The%20Alchemist's%20Secret.jpg",
       "foundedYear": 1985,
       "country": "United Kingdom"
     }
@@ -156,7 +156,7 @@
     "publisher": {
       "id": "PUB-104",
       "name": "LoveStory Editions",
-      "logoUrl": "https://example.com/images/publishers/lovestory-editions-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Whispering%20Winds.jpg",
       "foundedYear": 1990,
       "country": "France"
     }
@@ -174,7 +174,7 @@
     "publisher": {
       "id": "PUB-105",
       "name": "Inspire Books",
-      "logoUrl": "https://example.com/images/publishers/inspire-books-logo.jpg",
+      "logoUrl": "https://github.com/Arthur-Oksuz/project/blob/main/images/Beyond%20the%20Horizon.jpg",
       "foundedYear": 2001,
       "country": "Canada"
     }
