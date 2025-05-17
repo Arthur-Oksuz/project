@@ -12,7 +12,7 @@
     "publisher": {
       "id": "PUB-101",
       "name": "Fantasy House Publishers",
-      "logoUrl": "/public/publishers/Fantasy-House-Publishers.jpg",
+      "logoUrl": "/publishers/Fantasy-House-Publishers.jpg",
       "foundedYear": 1985,
       "country": "United Kingdom"
     }
@@ -30,7 +30,7 @@
     "publisher": {
       "id": "PUB-102",
       "name": "Mystery Ink",
-      "logoUrl": "/public/publishers/Mystery-Ink.jpg",
+      "logoUrl": "/publishers/Mystery-Ink.jpg",
       "foundedYear": 1998,
       "country": "United States"
     }
@@ -48,7 +48,7 @@
     "publisher": {
       "id": "PUB-103",
       "name": "Sci-Fi Sphere",
-        "logoUrl": "/public/publishers/Sci-Fi-Sphere.jpg",
+      "logoUrl": "/publishers/Sci-Fi-Sphere.jpg",
       "foundedYear": 2005,
       "country": "Japan"
     }
@@ -66,7 +66,7 @@
     "publisher": {
       "id": "PUB-104",
       "name": "LoveStory Editions",
-      "logoUrl": "/public/publishers/LoveStory-Editions.jpg",
+      "logoUrl": "/publishers/LoveStory-Editions.jpg",
       "foundedYear": 1990,
       "country": "France"
     }
@@ -84,7 +84,7 @@
     "publisher": {
       "id": "PUB-103",
       "name": "Sci-Fi Sphere",
-       "logoUrl": "/public/publishers/Sci-Fi-Sphere.jpg",
+      "logoUrl": "/publishers/Sci-Fi-Sphere.jpg",
       "foundedYear": 2005,
       "country": "Japan"
     }
@@ -102,7 +102,7 @@
     "publisher": {
       "id": "PUB-102",
       "name": "Mystery Ink",
-       "logoUrl": "/public/publishers/Mystery-Ink.jpg",
+      "logoUrl": "/publishers/Mystery-Ink.jpg",
       "foundedYear": 1998,
       "country": "United States"
     }
@@ -120,7 +120,7 @@
     "publisher": {
       "id": "PUB-105",
       "name": "Inspire Books",
-       "logoUrl": "/public/publishers/Inspire-Books.jpg",
+      "logoUrl": "/publishers/Inspire-Books.jpg",
       "foundedYear": 2001,
       "country": "Canada"
     }
@@ -138,7 +138,7 @@
     "publisher": {
       "id": "PUB-101",
       "name": "Fantasy-House-Publishers",
-      "logoUrl": "/public/publishers/Fantasy-House-Publishers.jpg",
+      "logoUrl": "/publishers/Fantasy-House-Publishers.jpg",
       "foundedYear": 1985,
       "country": "United Kingdom"
     }
@@ -156,7 +156,7 @@
     "publisher": {
       "id": "PUB-104",
       "name": "LoveStory Editions",
-      "logoUrl": "/public/publishers/LoveStory-Editions.jpg",
+      "logoUrl": "/publishers/LoveStory-Editions.jpg",
       "foundedYear": 1990,
       "country": "France"
     }
@@ -174,7 +174,7 @@
     "publisher": {
       "id": "PUB-105",
       "name": "Inspire Books",
-      "logoUrl": "/public/publishers/Inspire-Books.jpg",
+      "logoUrl": "/publishers/Inspire-Books.jpg",
       "foundedYear": 2001,
       "country": "Canada"
     }
